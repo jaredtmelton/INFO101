@@ -1,2 +1,2 @@
 # INFO101
-Hey, I just added a sentence.
+The quick brown fox jumped over the lazy dog.
